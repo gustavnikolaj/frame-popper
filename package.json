@@ -1,7 +1,7 @@
 {
   "name": "@gustavnikolaj/frame-popper",
   "version": "0.0.0",
-  "description": "",
+  "description": "Pops frames off of your stack traces!",
   "main": "lib/framePopper.js",
   "scripts": {
     "coverage": "jest --coverage",
@@ -9,8 +9,16 @@
     "test": "jest",
     "test-watch": "jest --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "framesToPop",
+    "stacktrace",
+    "invariant"
+  ],
+  "repository": "github:gustavnikolaj/frame-popper",
+  "author": "Gustav Nikolaj <gustavnikolaj@gmail.com>",
+  "files": [
+    "lib/framePopper.js"
+  ],
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.3.0",
