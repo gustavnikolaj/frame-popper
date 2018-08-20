@@ -1,6 +1,6 @@
 # Frame Popper
 
-[![npm version](https://badge.fury.io/js/%40gustavnikolaj%2Fframe-popper.svg)](https://badge.fury.io/js/%40gustavnikolaj%2Fframe-popper)
+[![npm version](https://badge.fury.io/js/%40gustavnikolaj%2Fframe-popper.svg)](https://www.npmjs.com/package/@gustavnikolaj/frame-popper)
 [![Build Status](https://travis-ci.com/gustavnikolaj/frame-popper.svg?branch=master)](https://travis-ci.com/gustavnikolaj/frame-popper)
 
 **Only intended for use in Node.js.**
