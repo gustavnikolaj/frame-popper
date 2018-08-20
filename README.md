@@ -1,5 +1,7 @@
 # Frame Popper
 
+[![Build Status](https://travis-ci.com/gustavnikolaj/frame-popper.svg?branch=master)](https://travis-ci.com/gustavnikolaj/frame-popper)
+
 **Only intended for use in Node.js.**
 
 When using the [invariant](https://github.com/zertosh/invariant) module the
