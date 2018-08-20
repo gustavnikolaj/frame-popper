@@ -25,6 +25,18 @@ serialized stacktraces to into proper structured data.
 
 The error that is passed in, is mutated in place NOT cloned.
 
+## Installation
+
+```
+npm install --save @gustavnikolaj/frame-popper
+```
+
+... or ...
+
+```
+yarn add @gustavnikolaj/frame-popper
+```
+
 ## Example:
 
 See [the source](./examples/deeplyNestedError.js) of the example function that
