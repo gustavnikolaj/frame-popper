@@ -28,6 +28,6 @@
     "invariant": "^2.2.4",
     "jest": "^23.6.0",
     "prettier": "^1.15.3",
-    "unexpected": "^10.39.2"
+    "unexpected": "^10.40.0"
   }
 }
